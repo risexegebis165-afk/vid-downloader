@@ -1,0 +1,6 @@
+    ydl_opts = {
+        'format': 'best',
+        'quiet': True,
+        'noplaylist': True,
+        'cookiefile': 'cookies.txt',  # এই লাইনটি খুব গুরুত্বপূর্ণ
+    }
